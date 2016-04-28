@@ -1,0 +1,15 @@
+E:\Projects\VisualStudio\MGame2\MGame2\View\bin\Debug\View.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\bin\Debug\View.pdb
+E:\Projects\VisualStudio\MGame2\MGame2\View\bin\Debug\Interop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\Interop.MediaPlayer.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\Interop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.csproj.ResolveComReference.cache
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.MainUI.resources
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.QuestionManager.resources
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.Resource1.resources
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.csproj.GenerateResource.Cache
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.dll
+E:\Projects\VisualStudio\MGame2\MGame2\View\obj\Debug\View.pdb
