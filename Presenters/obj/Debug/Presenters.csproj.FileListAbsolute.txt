@@ -1,0 +1,13 @@
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\Presenters.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\Presenters.pdb
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\Model.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\View.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\EntityFramework.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\Interop.WMPLib.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\Model.pdb
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\View.pdb
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\bin\Debug\EntityFramework.xml
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\obj\Debug\Presenters.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\obj\Debug\Presenters.dll
+E:\Projects\VisualStudio\MGame2\MGame2\Presenters\obj\Debug\Presenters.pdb
